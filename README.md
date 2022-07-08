@@ -54,4 +54,3 @@ NodeCo is a DeFi nodes platform, that allows users to purchase &quot;nodes&quot;
 **Disclaimer**
 
 I am not a founder/owner or partner of NodeCo. My task was to design and develop the contract + dapp. Therefore, I am not responsible for any losses incurred by the users of this platform.
-```
